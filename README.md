@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/OayVCZ6qCzsAAAAi/oooo-pogfish.gif">
+  <img src="https://media.tenor.com/KNq-4djlhkIAAAAi/gupp-fish.gif">
 </p>
 
 <div align="center">
