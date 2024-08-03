@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/zHP9BQROq0AAAAAi/doggo-spin.gif">
+  <img src="https://telegra.ph/file/972648258d06526b48811.png">
 </p>
 
 <div align="center">
