@@ -3,7 +3,9 @@
 </p>
 
 ### Hi there 👋,
-my Name is **Felipe Fogaça**, at the moment im learning Python.
+My name is **Felipe Fogaça**, at the moment im learning Python.
+
+<div align="center">
 
 - 🔭 I’m Developer on Skye
 - 📫 reach me on discord: johnrl_
