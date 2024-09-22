@@ -5,7 +5,7 @@
 ### Hi there 👋,
 My name is **Felipe Fogaça**, at the moment im learning Python.
 
-- 🔭 I’m Developer on Skye
+- 🔭 currently developing Skye
 - 📫 reach me on discord: johnrl_
 - 📨 send me an email: hello@felipefogaca.net
 
