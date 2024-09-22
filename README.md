@@ -3,6 +3,13 @@
 </p>
 
 <div align="center">
+
+### Hi there 👋,
+my Name is **Felipe Fogaça**, at the moment im learning Python.
+
+- 🔭 I’m Developer on Skye
+- 📫 reach me on discord: johnrl_
+- 📨 send me an email: hello@felipefogaca.net
   
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/735388907772051497?borderRadius=5px&showDisplayName=true&idleMessage=I'm%20not%20doing%20nothing%20at%20this%20moment)](https://discord.com/users/735388907772051497) -->
 
