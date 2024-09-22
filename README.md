@@ -5,8 +5,6 @@
 ### Hi there 👋,
 My name is **Felipe Fogaça**, at the moment im learning Python.
 
-<div align="center">
-
 - 🔭 I’m Developer on Skye
 - 📫 reach me on discord: johnrl_
 - 📨 send me an email: hello@felipefogaca.net
