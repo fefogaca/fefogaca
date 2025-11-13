@@ -16,15 +16,7 @@ Right now I'm diving deep into web development, mobile apps, and especially **cl
 
 ### What I'm up to
 
-I'm working towards becoming a full-stack developer with a strong focus on cloud infrastructure. My degree covers a lot of ground:
-
-* 🌐 **Web Development** — Both frontend and backend stuff
-* 📱 **Mobile Apps** — Building for multiple platforms
-* ☁️ **Cloud Computing** — Virtualization, cloud services, and DevOps practices
-* 🗄️ **Databases** — Designing and managing data systems
-* 🔒 **Cybersecurity** — Keeping applications and services secure
-* 🎨 **Interface Design** — Creating good UX/UI for web and mobile
-* 🎮 **Game Development** — Web and mobile games
+I'm working towards becoming a full-stack developer with a strong focus on cloud infrastructure. My degree gives me a solid foundation across the board — I get to work on both frontend and backend web development, build mobile apps for different platforms, and dive into cloud computing stuff like virtualization, cloud services, and DevOps practices. I also spend time working with databases, learning how to design and manage data systems properly, and I'm always keeping an eye on cybersecurity to make sure the things I build stay secure. Plus, I enjoy thinking about interface design and creating good UX/UI experiences for web and mobile.
 
 ### My work
 
