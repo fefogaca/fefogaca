@@ -30,10 +30,12 @@ Software and infrastructure engineer leading the development and operations of a
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/swift/swift-original.svg" />
 
-<br />
+<br clear="all"/>
+<br/>
+<br/>
 
 <p align="center">
-  <img src="assets/banner_promocional_pulbi.png" alt="PulbiApp: Banner Promocional" width="100%">
+  <a href="https://pulbi.app" target="_blank" rel="noopener noreferrer">
+    <img src="assets/banner_promocional_pulbi.png" alt="PulbiApp: Banner Promocional" width="100%">
+  </a>
 </p>
-
-<br />
