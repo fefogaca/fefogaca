@@ -36,6 +36,6 @@ Software and infrastructure engineer leading the development and operations of a
 
 <p align="center">
   <a href="https://pulbi.app" target="_blank" rel="noopener noreferrer">
-    <img src="assets/banner_promocional_pulbi.png" alt="PulbiApp: Banner Promocional" width="100%">
+    <img src="assets/banner_promocional_pulbi.svg" alt="PulbiApp: Banner Promocional" width="100%">
   </a>
 </p>
