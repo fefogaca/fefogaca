@@ -29,6 +29,9 @@ Software and infrastructure engineer leading the development and operations of a
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/swift/swift-original.svg" />
+<img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/discordjs/discordjs-original.svg" />
+<img align="left" alt="WhatsApp" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+<img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" />
 
 <br clear="all"/>
 <br/>
